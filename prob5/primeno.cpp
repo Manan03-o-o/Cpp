@@ -18,3 +18,10 @@ int main() {
 
     return 0;
 }
+// This program reads two integers a and b from standard input
+// and prints all prime numbers in the range [a, b] to standard output.
+// It defines a helper function isPrime to check for primality.
+// The program uses a simple trial division method to determine if a number is prime.
+// The program adheres to the C++14 standard.
+// Example input: 10 30
+// Example output: 11 13 17 19 23 29
