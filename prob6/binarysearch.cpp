@@ -20,3 +20,8 @@ int main() {
     if (result != -1) cout << "Found at index " << result;
     else cout << "Not found";
 }
+// This code implements a binary search algorithm to find an element in a sorted array.
+// It returns the index of the element if found, otherwise returns -1.
+// The main function demonstrates the usage of the binary search function.
+// C++14 standard is used for this implementation.
+// C++ language standard version: This project uses the C++14 language standard version.
