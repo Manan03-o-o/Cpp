@@ -13,3 +13,9 @@ int main() {
     if (isPrime(n)) cout << "Prime";
     else cout << "Not Prime";
 }
+// Output: Prime
+// The code checks if a given number is prime and prints the result.    
+// It defines a function isPrime that returns true if the number is prime, otherwise false.
+// In main, it checks if 29 is prime and prints "Prime" or "Not Prime" accordingly.
+// The code checks if a given number is prime and prints the result.
+// It defines a function isPrime that returns true if the number is prime, otherwise false.
