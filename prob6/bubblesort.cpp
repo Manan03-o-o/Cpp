@@ -18,3 +18,5 @@ int main() {
 
     for (int x : arr) cout << x << " ";
 }
+// Output: 1 2 4 5 8
+// The code implements the bubble sort algorithm to sort an array of integers in ascending order.
