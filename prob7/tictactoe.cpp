@@ -21,3 +21,7 @@ int main() {
 
     return 0;
 }
+// This program reads a 3x3 Tic-Tac-Toe board configuration from user input
+// and then displays it in a formatted manner.
+// The board is represented as a 2D array of characters.
+// Each cell can contain 'X', 'O', or a blank space.
