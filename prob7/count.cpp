@@ -23,3 +23,4 @@ int main() {
 
     return 0;
 }
+// This program reads a line of text from standard input and counts the number of words, characters (excluding spaces), and sentences (ending with '.', '!', or '?'). It then outputs these counts.
