@@ -42,3 +42,13 @@ int main() {
 
     return 0;
 }
+    
+
+// Output:
+// 1.Deposit
+// 2.Withdraw
+// 3.Show Balance
+// 4.Exit
+// 1
+// 500
+// Deposited.
