@@ -21,3 +21,13 @@ int main() {
 
     return 0;
 }
+// End of quizgame.cpp
+// A simple quiz game that asks three questions and calculates the score based on user answers.
+// Each correct answer adds one point to the score.
+// The program uses basic input/output and conditional statements.
+// The program is written in C++14 standard.
+// Example Output:
+// 1) Capital of India?
+// A) Delhi  B) Mumbai
+// A
+// 2) 5 + 7 = ?
