@@ -20,3 +20,5 @@ int main() {
 
     return 0;
 }
+// This program reads an integer n and then n integers into an array. It then finds and prints all unique elements in the array (elements that appear only once).   
+// The program uses nested loops to compare each element with every other element to determine uniqueness.
