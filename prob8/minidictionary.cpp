@@ -24,3 +24,5 @@ int main() {
 
     return 0;
 }
+// This program implements a mini dictionary using a map to store word-meaning pairs. It reads a specified number of entries, stores them, and allows the user to search for a word
+// to retrieve its meaning. If the word is not found, it outputs an appropriate message.
