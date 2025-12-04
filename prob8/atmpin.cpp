@@ -24,3 +24,9 @@ int main() {
     cout << "Invalid PIN!";
     return 0;
 }
+
+
+// This program simulates a simple ATM PIN verification system.
+// It defines an Account structure with PIN and balance,
+// initializes an array of accounts, and checks user input against stored PINs.
+// If a match is found, it displays the corresponding balance; otherwise, it shows an error message.
