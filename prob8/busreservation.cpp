@@ -37,3 +37,11 @@ int main() {
 
     return 0;
 }
+
+// Sample Input/Output:
+// 1
+// 3
+// Seat booked!
+// 2
+// 5
+// Invalid Seat!
