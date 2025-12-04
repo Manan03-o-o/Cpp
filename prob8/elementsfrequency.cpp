@@ -18,3 +18,5 @@ int main() {
 
     return 0;
 }
+// This program reads an array of integers and counts the frequency of each unique element using a map.
+// It then prints each unique element along with its frequency in ascending order.
